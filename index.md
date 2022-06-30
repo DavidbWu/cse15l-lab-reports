@@ -1,1 +1,16 @@
 Make a new file called index.md, and put some text in it (whatever you like).
+*Italic* _Italic_
+**Bold** __Bold__
+***WhatBold*** ___WhatBold___
+
+# Heading 1
+
+## Heading 2
+
+[Link](https://www.yahoo.com/)
+
+
+![Image](https://cseweb.ucsd.edu//classes/fa17/cse259-a/ucsdcse.png)
+
+# ***CHEATSHEET REFERENCE:*** 
+[Link](https://commonmark.org/help/)
