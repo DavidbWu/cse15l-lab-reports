@@ -1,9 +1,11 @@
 Make a new file called index.md, and put some text in it (whatever you like).
 *Italic* _Italic_
 **Bold** __Bold__
-***WhatBold*** ___WhatBold___
+***WhatBold*** 
 
 # Heading 1
+today is the day,
+**learn CSE8A**
 
 ## Heading 2
 
