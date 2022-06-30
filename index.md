@@ -7,7 +7,8 @@ Make a new file called index.md, and put some text in it (whatever you like).
 today is the day,
 **learn CSE8A**
 
-## Heading 2
+## Heading
+![alt](cat.png)
 
 [Link](https://www.yahoo.com/)
 
